@@ -56,7 +56,7 @@ portfolio/
 ├── js/
 │   └── main.js             ← All interactivity (theme toggle, nav, AOS, particles, form)
 ├── assets/
-│   └── resume.pdf          ← ⚠️ Replace with your actual resume PDF
+│   └── resume.pdf         
 └── README.md
 ```
 
