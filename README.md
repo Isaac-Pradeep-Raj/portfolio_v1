@@ -5,13 +5,8 @@
 
 ---
 
-## 🌐 Live Preview
 
-Deploy this site on any static hosting service (GitHub Pages, Netlify, Vercel) and it's immediately live.
-
----
-
-## ✅ Completed Features
+## ✅ Features
 
 ### UI & Theme
 - [x] Blue gradient engineering UI (`#00A9FF` · `#89CFF3` · `#A0E9FF` · `#CDF5FD`)
@@ -96,47 +91,6 @@ portfolio/
 | `message` | rich_text | Message body |
 | `created_at` | datetime | Auto-managed |
 
----
-
-## 🚢 Deployment
-
-### GitHub Pages
-1. Push this folder to a GitHub repository
-2. Go to **Settings → Pages → Source: Deploy from branch**
-3. Select `main` branch and `/ (root)` folder
-4. Your site will be live at `https://username.github.io/repo-name`
-
-### Netlify
-1. Drag and drop this folder into [app.netlify.com/drop](https://app.netlify.com/drop)
-2. OR connect your GitHub repository for automatic deploys
-
-### Vercel
-1. Import repository at [vercel.com/new](https://vercel.com/new)
-2. Framework: **Other** (Static Site)
-3. Build command: *(leave blank)*
-4. Output directory: `.` (root)
-5. Click **Deploy**
-
----
-
-## ⚠️ Action Items Before Going Live
-
-- [ ] Replace `#` with your actual resume PDF file
-- [ ] Update publication and DOI links in the Research section
-- [ ] Add your LinkedIn profile URL in the Contact section and Footer
-- [ ] Update GitHub URL if username differs from `Isaac_Pradeep_Raj`
-- [ ] Add profile photo (replace the avatar icon with `<img>` tag if desired)
-
----
-
-## 🔮 Recommended Next Steps
-
-1. **Add a profile photo** – Replace the astronaut icon with a professional headshot
-2. **Project screenshots** – Add screenshot images to the project cards
-3. **GitHub API integration** – Dynamically load real GitHub repositories
-4. **Blog section** – Add technical writing / articles
-5. **Patent tracking** – Expand the Patents section as filings progress
-6. **Analytics** – Add Google Analytics or Plausible for visitor tracking
 
 ---
 
